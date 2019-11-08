@@ -8,7 +8,7 @@ public class MyClass {
         System.out.println("input Number :");
         long number = scanner.nextInt();
 
-    String num[]={"零","壹","貳","?","肆","伍","陸","柒","捌","玖"};
+    String num[]={"零","壹","貳","參","肆","伍","陸","柒","捌","玖"};
 
     String num1[]={"拾","佰","仟","萬","拾萬","百萬","仟萬","億","拾億","百億","仟億"},
             je[]=new String[30];
